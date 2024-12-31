@@ -1,0 +1,49 @@
+.colors-part{
+    height: 100dvh;
+    position: absolute;
+    top: 0;
+    z-index: -1;
+}
+.red{
+    height: 20dvh;
+    width: 20dvh;
+    background-color: red;
+    filter: blur(80px);
+    position: absolute;
+}
+.yellow{
+    height: 50dvh;
+    width: 40dvh;
+    background-color: yellow;
+    position: absolute;
+    top: 20dvh;
+    left: 50dvh;
+    filter: blur(160px);
+}
+.green{
+    height: 30dvh;
+    width: 40dvh;
+    background-color: green;
+    position: absolute;
+    top: 80dvh;
+    left: 70dvw;
+    filter: blur(80px);
+}
+.yellow{
+    height: 50dvh;
+    width: 40dvh;
+    background-color: yellow;
+    position: absolute;
+    top: 30dvh;
+    left: 50dvh;
+    filter: blur(80px);
+}
+.purple{
+    height: 20dvh;
+    width: 40dvh;
+    background-color: purple;
+    position: absolute;
+    top: 1dvh;
+    left: 60dvw;
+    filter: blur(90px);
+}
